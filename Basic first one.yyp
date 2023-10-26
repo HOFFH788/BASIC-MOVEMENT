@@ -19,7 +19,7 @@
     {"name":"Android","path":"options/android/options_android.yy",},
     {"name":"iOS","path":"options/ios/options_ios.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 2,
   "isEcma": false,
   "configs": {
     "name": "Default",
